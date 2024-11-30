@@ -1,1 +1,0 @@
-# proyecto_documentacion_api_ELCG
